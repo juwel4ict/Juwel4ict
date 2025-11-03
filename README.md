@@ -1,9 +1,9 @@
-👋 Hi, I'm MohammadJuwel
+**👋 Hi, I'm MohammadJuwel**
 Web Developer| Freelancer
 
 🚀 I build modern, fast and scalable web applications with clean architecture and beautiful UI.
 
-💼 I work with global clients for:
+**💼 I work with global clients for:**
 - Web application development
 - E-commerce & business websites
 - SaaS dashboards & admin panels
@@ -11,13 +11,13 @@ Web Developer| Freelancer
 
 ---
 
-🧠 Tech Stack:
+**🧠 Tech Stack:**
 
-Frontend:
+**Frontend:**
 HTML • CSS • Tailwind CSS • JavaScript • TypeScript  
 React.js • Next.js • Redux • Bootstrap
 
-Backend: 
+**Backend:** 
 Node.js • Express.js • REST API • Authentication (JWT/OAuth)
 
 **Database & Tools:**  
@@ -28,7 +28,7 @@ Responsive UI • SEO • Firebase Auth • Payment Integration • API Integrat
 
 ---
 
-🌍 Work Style & Goals:
+**🌍 Work Style & Goals:**
 ✔ Available for **remote jobs & freelance projects**  
 ✔ Strong communication & problem-solving  
 ✔ Building portfolio & open-source contributions  
@@ -36,7 +36,7 @@ Responsive UI • SEO • Firebase Auth • Payment Integration • API Integrat
 
 ---
 
- ✨ Featured Projects:
+** ✨ Featured Projects:**
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🚀 SaaS Admin Dashboard | Multi-user dashboard with roles & charts | Next.js, MongoDB, Tailwind |
@@ -49,7 +49,7 @@ Responsive UI • SEO • Firebase Auth • Payment Integration • API Integrat
 
 ### 📫 Contact & Hire Me
 - 🌐 Portfolio: yourwebsite.com  
-- 💼 LinkedIn: linkedin.com/in/yourname  
+- 💼 LinkedIn: linkedin.com/in/juwelbd01  
 - ✉ Email: juwel4tech@gmail.com  
 - 🏗️ Hire on Upwork / Fiverr (optional links)
 
