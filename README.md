@@ -50,7 +50,7 @@ Responsive UI • SEO • Firebase Auth • Payment Integration • API Integrat
 ### 📫 Contact & Hire Me
 - 🌐 Portfolio: yourwebsite.com  
 - 💼 LinkedIn: linkedin.com/in/yourname  
-- ✉ Email: youremail@example.com  
+- ✉ Email: juwel4tech@gmail.com  
 - 🏗️ Hire on Upwork / Fiverr (optional links)
 
 > **"Code with purpose. Build for impact."**
