@@ -1,5 +1,5 @@
-# 👋 Hi, I'm [MohammadJuwel]
-### Full-Stack Web Developer| Freelancer
+👋 Hi, I'm MohammadJuwel
+Web Developer| Freelancer
 
 🚀 I build modern, fast and scalable web applications with clean architecture and beautiful UI.
 
@@ -11,24 +11,24 @@
 
 ---
 
-### 🧠 Tech Stack
+🧠 Tech Stack:
 
-**Frontend:**  
+Frontend:
 HTML • CSS • Tailwind CSS • JavaScript • TypeScript  
 React.js • Next.js • Redux • Bootstrap
 
-**Backend:**  
+Backend: 
 Node.js • Express.js • REST API • Authentication (JWT/OAuth)
 
 **Database & Tools:**  
-MongoDB • Firebase • Git & GitHub • Linux • Vercel • Docker (basic)
+Mysql, SQL Server, MongoDB • Firebase • Git & GitHub • Linux • Vercel • Docker (basic)
 
 **Other Skills:**  
 Responsive UI • SEO • Firebase Auth • Payment Integration • API Integration
 
 ---
 
-### 🌍 Work Style & Goals
+🌍 Work Style & Goals:
 ✔ Available for **remote jobs & freelance projects**  
 ✔ Strong communication & problem-solving  
 ✔ Building portfolio & open-source contributions  
@@ -36,7 +36,7 @@ Responsive UI • SEO • Firebase Auth • Payment Integration • API Integrat
 
 ---
 
-### ✨ Featured Projects
+ ✨ Featured Projects:
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🚀 SaaS Admin Dashboard | Multi-user dashboard with roles & charts | Next.js, MongoDB, Tailwind |
